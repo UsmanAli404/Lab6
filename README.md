@@ -1,2 +1,3 @@
 # Lab6
-abc
+ab
+def
