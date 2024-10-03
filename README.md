@@ -1,5 +1,5 @@
 # Lab6
-ab
+a
 def
 
 #New section
