@@ -1,3 +1,3 @@
 # Lab6
-ab
+a
 def
